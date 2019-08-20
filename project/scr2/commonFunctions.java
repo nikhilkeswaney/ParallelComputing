@@ -20,6 +20,7 @@ import java.util.HashMap;
 public class commonFunctions {
 
     /**
+     *
      * This function is used to write data to a particular file
      * using a string builder.
      * @param filename Name of the file where i have to write.
