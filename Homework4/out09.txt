@@ -1,0 +1,13 @@
+Connecticut		0.31934
+	Hartford County	0.37818
+	New Haven County	0.35077
+	Fairfield County	0.33920
+	New London County	0.28210
+	Middlesex County	0.18911
+	Tolland County	0.17784
+	Windham County	0.13310
+	Litchfield County	0.10269
+Delaware		0.44472
+	New Castle County	0.48095
+	Kent County	0.46566
+	Sussex County	0.30151

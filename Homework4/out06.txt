@@ -1,0 +1,16 @@
+Arizona		0.27603
+	Navajo County	0.53006
+	Coconino County	0.47806
+	Apache County	0.40357
+	La Paz County	0.34887
+	Graham County	0.32240
+	Gila County	0.29978
+	Pinal County	0.29550
+	Maricopa County	0.26198
+	Pima County	0.25045
+	Cochise County	0.21311
+	Yuma County	0.15153
+	Mohave County	0.13567
+	Greenlee County	0.13332
+	Yavapai County	0.10904
+	Santa Cruz County	0.056761

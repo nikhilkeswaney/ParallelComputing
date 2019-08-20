@@ -1,0 +1,2 @@
+DivIndex: <year> must be an integer
+Usage: java pj2 jar=<jar> threads=<NT> DivIndex <nodes> <file> <year> ["<state>" ...]

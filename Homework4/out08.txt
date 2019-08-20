@@ -1,0 +1,124 @@
+California		0.43089
+	Alameda County	0.63082
+	San Francisco County	0.58127
+	Solano County	0.58034
+	Santa Clara County	0.55210
+	Sacramento County	0.53514
+	San Mateo County	0.52068
+	Contra Costa County	0.49723
+	San Joaquin County	0.49603
+	Los Angeles County	0.45633
+	Alpine County	0.41877
+	Sutter County	0.40932
+	Orange County	0.40810
+	Yolo County	0.39767
+	San Diego County	0.39160
+	Fresno County	0.38157
+	San Bernardino County	0.38045
+	Del Norte County	0.36209
+	Yuba County	0.35156
+	Riverside County	0.33469
+	Lassen County	0.32559
+	Kings County	0.32541
+	Merced County	0.31558
+	Inyo County	0.31331
+	Monterey County	0.30902
+	Kern County	0.30237
+	Humboldt County	0.28005
+	Stanislaus County	0.27890
+	Ventura County	0.26639
+	Napa County	0.26029
+	Santa Barbara County	0.24944
+	Marin County	0.24860
+	Madera County	0.24522
+	Placer County	0.24088
+	Mendocino County	0.23624
+	Butte County	0.23569
+	Siskiyou County	0.22713
+	Sonoma County	0.22464
+	Santa Cruz County	0.21940
+	Lake County	0.21726
+	Tulare County	0.21195
+	Trinity County	0.20661
+	San Benito County	0.20616
+	Shasta County	0.20529
+	San Luis Obispo County	0.19974
+	Modoc County	0.19859
+	Imperial County	0.19373
+	Glenn County	0.18437
+	El Dorado County	0.17907
+	Mariposa County	0.17785
+	Amador County	0.17045
+	Tuolumne County	0.16643
+	Tehama County	0.16332
+	Plumas County	0.15908
+	Colusa County	0.15595
+	Mono County	0.14802
+	Calaveras County	0.14625
+	Nevada County	0.11486
+	Sierra County	0.092098
+Colorado		0.21871
+	Arapahoe County	0.36107
+	Denver County	0.33469
+	El Paso County	0.28246
+	Montezuma County	0.28177
+	Crowley County	0.27412
+	Bent County	0.23359
+	Adams County	0.23099
+	Alamosa County	0.21077
+	Costilla County	0.20443
+	Broomfield County	0.19659
+	La Plata County	0.18918
+	Huerfano County	0.18466
+	Pueblo County	0.16844
+	Lincoln County	0.16626
+	Boulder County	0.16403
+	Fremont County	0.15711
+	Otero County	0.15486
+	Las Animas County	0.15461
+	Douglas County	0.15417
+	Jefferson County	0.14355
+	Logan County	0.13886
+	Morgan County	0.13331
+	Saguache County	0.13076
+	Conejos County	0.12852
+	Archuleta County	0.12617
+	Weld County	0.12487
+	Dolores County	0.12428
+	Larimer County	0.12374
+	Rio Grande County	0.11471
+	Lake County	0.10730
+	Gilpin County	0.10686
+	Garfield County	0.10635
+	Mesa County	0.10524
+	Kit Carson County	0.10465
+	Rio Blanco County	0.10318
+	Montrose County	0.10105
+	Gunnison County	0.10095
+	Chaffee County	0.098285
+	Teller County	0.092982
+	Park County	0.091933
+	Eagle County	0.090032
+	Delta County	0.089060
+	Baca County	0.085011
+	Prowers County	0.083906
+	San Miguel County	0.081110
+	Clear Creek County	0.081061
+	Moffat County	0.080709
+	Elbert County	0.080294
+	Summit County	0.079872
+	Hinsdale County	0.077751
+	Pitkin County	0.077583
+	Grand County	0.076304
+	San Juan County	0.075850
+	Sedgwick County	0.074816
+	Custer County	0.074385
+	Jackson County	0.069112
+	Routt County	0.063655
+	Cheyenne County	0.060030
+	Ouray County	0.059277
+	Kiowa County	0.058302
+	Phillips County	0.053708
+	Washington County	0.051406
+	Yuma County	0.050579
+	Mineral County	0.043837
