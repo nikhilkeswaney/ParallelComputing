@@ -1,6 +1,0 @@
-me
-java.lang.NullPointerException
-	at Email.transferDataandMakeTFIDFscore(Email.java:56)
-	at MakeScoresSmp.letsGo(MakeScoresSmp.java:131)
-	at EmailClassifierSmp.main(EmailClassifierSmp.java:30)
-	at edu.rit.pj2.Backend$BackendThread.run(Backend.java:366)
