@@ -5,6 +5,7 @@
 // The Bellow code is a Sequential version of the program that verifies the
 // Lemoines conjecture.
 //**************************************************************************
+import java.util.*;
 
 /**
  *
@@ -30,7 +31,7 @@ public class LemoineSeq {
      */
     public static void main(String[] args) throws Exception {
         LemoinesVbl globalpqn;
-
+        long startTime = System.nanoTime();
         if (args.length < 2)
             usage();
 
@@ -62,7 +63,8 @@ public class LemoineSeq {
             System.err.println("Please enter the upper limit such that upperlimit > lowerlimit");
             return;
         }
-
+        // omp parallel
+        {}
         globalpqn = new LemoinesVbl(0, 0, 0);
         Prime.Iterator iterateRange = new Prime.Iterator();
 
@@ -71,6 +73,11 @@ public class LemoineSeq {
             globalpqn.checkNextAndUpdate(iterateRange, numberToCheck);
         }
         System.out.println(globalpqn.n + " = " + globalpqn.p + " + 2*" + globalpqn.q);
+        long endTime = System.nanoTime();
+        long timeElapsed = endTime - startTime;
+
+        System.err.println("Execution time: " + timeElapsed / 1000000 + " ms");
+        System.out.println();
     }
 
     /**

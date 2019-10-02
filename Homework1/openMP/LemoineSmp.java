@@ -4,6 +4,7 @@
 // The Bellow code is a Parallel version of the program that verifies the
 // lemoines conjecture.
 //************************************************************************
+import java.util.*;
 
 /**
  * The class LemoineSmp verifies the Lemoine's Conjecture from the given lower
@@ -27,7 +28,7 @@ public class LemoineSmp {
      * Main program.
      */
     public static void main(String[] args) throws Exception {
-
+        long startTime = System.nanoTime();
         if (args.length < 2)
             usage();
 
@@ -63,6 +64,7 @@ public class LemoineSmp {
             System.err.println("Please enter the upper limit such that upperlimit > lowerlimit");
             return;
         }
+        System.out.println("Available Processors : " + Runtime.getRuntime().availableProcessors());
         LemoinesVbl[] globalpqn = new LemoinesVbl[Runtime.getRuntime().availableProcessors()];
 
         // omp parallel
@@ -94,6 +96,11 @@ public class LemoineSmp {
             }
         }
         System.out.println(globalpqn[0].n + " = " + globalpqn[0].p + " + 2*" + globalpqn[0].q);
+        long endTime = System.nanoTime();
+        long timeElapsed = endTime - startTime;
+
+        System.err.println("Execution time: " + timeElapsed / 1000000 + " ms");
+        System.out.println();
     }
 
     /**
